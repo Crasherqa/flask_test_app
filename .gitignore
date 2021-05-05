@@ -1,0 +1,11 @@
+# IDE files #
+nbproject
+.~lock.*
+.buildpath
+.idea
+.vscode
+.project
+.settings
+
+env
+venv
